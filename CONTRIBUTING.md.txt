@@ -1,0 +1,7 @@
+#CONTRIBUTING.md
+Steps to contribute in project:
+-Fork the project
+-Clone the project
+-Set upstream
+-Commit and push
+-Create pull request
